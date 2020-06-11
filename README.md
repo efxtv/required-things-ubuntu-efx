@@ -4,6 +4,7 @@ Bash based program "required-things-ubuntu-efx " contains all the basic programs
 Execute it as we execute a normal bash based aplication.
 
 cd required-things-ubuntu-efx.sh
+
 bash required-things-ubuntu-efx.sh
 
 /.... (PLEASE)
