@@ -32,13 +32,13 @@ echo " ------------------9"
 sleep 1
 echo " -------------------10"
 sleep 1
-echo " -------------------Reasy to Install"
+echo " -------------------Ready to Install"
 sleep 3
 echo " -------------------------------Every thing is okay"
 sleep 1
 echo " -------------------Getting Started"
 sleep 1
-echo " -------------------Reasy to Install"
+echo " -------------------Ready to Install"
 sleep 1
 echo " -------------------Installing..."
 sleep 2
